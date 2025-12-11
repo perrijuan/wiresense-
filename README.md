@@ -28,7 +28,6 @@ Este projeto demonstra a aplicação prática de **Visão Computacional Mobile**
 <img width="1080" height="2400" alt="Screenshot_20251211_004437" src="https://github.com/user-attachments/assets/d94e2f07-c006-4015-b19f-c84df40c4c3e" />
 <img width="1080" height="2400" alt="Screenshot_20251211_004434" src="https://github.com/user-attachments/assets/9fc268e8-623b-4f11-8f17-acb71f710d9b" />
 <img width="1080" height="2400" alt="Screenshot_20251211_004428" src="https://github.com/user-attachments/assets/9ac724f6-efa3-4d00-b736-67e940d14be2" />
-
 </p>
 
 ## Funcionalidades
