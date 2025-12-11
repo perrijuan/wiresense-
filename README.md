@@ -16,6 +16,8 @@ O **WireSense** é uma aplicação nativa desenvolvida para auxiliar técnicos e
 
 1.  **Modo Automático:** Utiliza modelos **U-Net** otimizados via **TensorFlow Lite** para detecção instantânea.
 2.  **Modo Interativo:** Integra o **SAM 2 (Segment Anything Model)** via **ONNX Runtime**, permitindo segmentação precisa baseada em pontos de clique.
+<img width="1762" height="444" alt="image" src="https://github.com/user-attachments/assets/e1341cd4-077f-441d-af82-a07a03b6d842" />
+
 
 Este projeto demonstra a aplicação prática de **Visão Computacional Mobile** (Edge AI), onde todo o processamento ocorre no dispositivo, garantindo privacidade e funcionamento offline.
 
