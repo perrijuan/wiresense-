@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-> **Segmentação inteligente de fiação elétrica e cabos estruturados em tempo real, rodando localmente no Android.**
+> **Segmentação inteligente de fiação elétrica e cabos estruturados em tempo real, rodando no sam3.**
 
 
 ![ezgif-7bf543ec11ff872a](https://github.com/user-attachments/assets/b1cc0960-4dca-45d0-86c7-1100bda5e50c)
