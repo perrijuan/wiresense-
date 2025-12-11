@@ -58,11 +58,14 @@ Este projeto demonstra a aplicação prática de **Visão Computacional Mobile**
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/WireSense.git](https://github.com/perrijuan/WireSense.git)
+    git clone [https://github.com/perrijuan/WireSense.git](https://github.com/perrijuan/WireSense.git)
     ```
 
 2.  **Configuração dos Modelos:**
-    * Certifique-se de que os arquivos de modelo (`attention_unet.tflite` e modelos ONNX do SAM) estejam localizados em: `app/src/main/assets/`.
+    * Certifique-se de que os seguintes arquivos estejam na pasta `app/src/main/assets/`:
+        * `attention_unet.tflite` (Modelo U-Net)
+        * `sam2_encoder_tiny.onnx` (Encoder do SAM 2)
+        * `sam2_decoder_tiny.onnx` (Decoder do SAM 2)
 
 3.  **Abra no Android Studio:**
     * Aguarde o Gradle sincronizar as dependências.
