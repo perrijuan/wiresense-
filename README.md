@@ -8,6 +8,10 @@
 
 > **Segmentação inteligente de fiação elétrica e cabos estruturados em tempo real, rodando localmente no Android.**
 
+seguimentação semantica aplicada a postes para energia eletrica
+
+![Adobe Express - sam_1395728188795283 (3)](https://github.com/user-attachments/assets/b6576ecb-cfee-4bb0-b374-5dafd60b9d27)
+
 ---
 
 ## Visão Geral
