@@ -22,10 +22,13 @@ Este projeto demonstra a aplicação prática de **Visão Computacional Mobile**
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39617f28-a502-4ea6-b6f1-d8464c2e2745" width="22%" alt="Seleção de Perfil" />
-  <img src="https://github.com/user-attachments/assets/088225bf-870d-4f6c-ae87-fefe9721f056" width="22%" alt="Tela de Login" />
-  <img src="https://github.com/user-attachments/assets/65c16f25-8f41-4fe9-a0e0-02a0fe9216b8" width="22%" alt="Segmentação de Fio" />
-  <img src="https://github.com/user-attachments/assets/686cfb96-f1e4-4653-b0e0-f3e57556f6e4" width="22%" alt="Analytics" />
+<img width="1080" height="2400" alt="Screenshot_20251211_004950" src="https://github.com/user-attachments/assets/d91f8703-7e37-49ac-8560-9edb6e435b33" />
+<img width="1080" height="2400" alt="Screenshot_20251211_004450" src="https://github.com/user-attachments/assets/fb6ecbb1-21ca-41b1-a8f4-219ac2e2d696" />
+<img width="1080" height="2400" alt="Screenshot_20251211_004443" src="https://github.com/user-attachments/assets/9509efa9-bd47-429e-8dcd-f09d21002f6d" />
+<img width="1080" height="2400" alt="Screenshot_20251211_004437" src="https://github.com/user-attachments/assets/d94e2f07-c006-4015-b19f-c84df40c4c3e" />
+<img width="1080" height="2400" alt="Screenshot_20251211_004434" src="https://github.com/user-attachments/assets/9fc268e8-623b-4f11-8f17-acb71f710d9b" />
+<img width="1080" height="2400" alt="Screenshot_20251211_004428" src="https://github.com/user-attachments/assets/9ac724f6-efa3-4d00-b736-67e940d14be2" />
+
 </p>
 
 ## Funcionalidades
