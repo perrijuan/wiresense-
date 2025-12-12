@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tech_bg_start">#0F172A</color> <color name="tech_bg_end">#000000</color>   <color name="tech_accent">#38BDF8</color>   <color name="tech_surface">#1E293B</color>  <color name="text_primary">#F8FAFC</color>  <color name="text_secondary">#94A3B8</color> </resources>
